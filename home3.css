@@ -113,7 +113,7 @@ textarea {
   resize: vertical; /* Allow vertical resizing of the textarea */
 }
 
-textarea:focus {
-  border-color: #8C52FF; /* Change border color on focus */
-  outline: none; /* Remove default focus outline */
-}
+/*textarea:focus {
+  border-color: #8C52FF; 
+  outline: none; } */
+
